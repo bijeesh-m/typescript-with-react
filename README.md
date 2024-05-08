@@ -4,12 +4,12 @@ This is a simple Todo application built using React and TypeScript. It allows us
 
 **Features**
 
--Add new tasks \n
--Edit existing tasks
--Delete tasks
+-Add new tasks <br>
+-Edit existing tasks <br>
+-Delete tasks <br>
 -Mark tasks as completed
 
 **Technologies Used**
 
--React
+-React <br>
 -TypeScript
